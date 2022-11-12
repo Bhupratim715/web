@@ -1,0 +1,18 @@
+*{
+    background-color: #B2B2B2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+a{
+    text-decoration: none;
+}
+em>a{
+    color: black;
+}
+.update{
+    color: rgb(151, 11, 11);
+    text-align: center;
+}
